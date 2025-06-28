@@ -1,0 +1,53 @@
+<!--
+File: solar_mobile_phone.html
+Description: Basic HTML template for a solar mobile phone project.
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Solar Mobile Phone</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        ul, ol {
+            margin-left: 20px;
+        }
+    </style>
+    </head>
+    <body>
+        <h1>Solar Mobile Phone</h1>
+        <p>
+            A solar mobile phone is a type of mobile device that uses solar energy to recharge its battery. This innovative technology helps reduce dependence on traditional electricity sources and is especially useful in remote areas or during outdoor activities.
+        </p>
+        <p>
+            Solar mobile phones are equipped with small solar panels that convert sunlight into electrical energy. This energy is then stored in the phone's battery, allowing users to charge their devices on the go.
+        </p>
+        <h2>Benefits of Solar Mobile Phones</h2>
+        <ul>
+            <li>Eco-friendly and reduces carbon footprint</li>
+            <li>Useful in areas with limited electricity access</li>
+            <li>Convenient for outdoor use and emergencies</li>
+            <li>Cost-effective in the long run</li>
+        </ul>
+        <h2>Key Features</h2>
+        <ol>
+            <li>Integrated solar panels</li>
+            <li>Energy-efficient battery</li>
+            <li>Durable and portable design</li>
+            <li>Basic and smart phone models available</li>
+        </ol>
+    </body>
+</head>
+<body>
+   
+</body>
+</html>
